@@ -27,7 +27,7 @@ function browsejobs() {
         </>
       </Head>
       <Header />
-      {/* <div
+      <div
         className="hero-wrap hero-wrap-2"
         style={{ backgroundImage: 'url("images/bg_1.jpg")' }}
         data-stellar-background-ratio="0.5"
@@ -48,7 +48,7 @@ function browsejobs() {
             </div>
           </div>
         </div>
-      </div> */}
+      </div>
       {/* <section className="ftco-section bg-light">
         <div className="container">
           <div className="row">
