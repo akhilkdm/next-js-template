@@ -33,6 +33,8 @@ export default function Home() {
         <link rel="stylesheet" href="css/style.css" />
       </Head>
 
+
+
       <Header />
 
       <div
@@ -373,6 +375,7 @@ export default function Home() {
           </div>
         </div>
       </section>
+
       <section className="ftco-section">
         <div className="container">
           <div className="row justify-content-center mb-5">
@@ -529,6 +532,7 @@ export default function Home() {
           </div>
         </div>
       </section>
+
       <section className="ftco-section services-section">
         <div className="container">
           <div className="row d-flex">
@@ -587,7 +591,8 @@ export default function Home() {
           </div>
         </div>
       </section>
-      <section className="ftco-section bg-light">
+
+       <section className="ftco-section bg-light">
         <div className="container">
           <div className="row">
             <div className="col-lg-9 pr-lg-5">
@@ -636,7 +641,6 @@ export default function Home() {
                     </div>
                   </div>
                 </div>
-                {/* end */}
                 <div className="col-md-12 ftco-animate">
                   <div className="job-post-item p-4 d-block d-lg-flex align-items-center">
                     <div className="one-third mb-4 mb-md-0">
@@ -675,7 +679,6 @@ export default function Home() {
                     </div>
                   </div>
                 </div>
-                {/* end */}
                 <div className="col-md-12 ftco-animate">
                   <div className="job-post-item p-4 d-block d-lg-flex align-items-center">
                     <div className="one-third mb-4 mb-md-0">
@@ -714,7 +717,6 @@ export default function Home() {
                     </div>
                   </div>
                 </div>
-                {/* end */}
                 <div className="col-md-12 ftco-animate">
                   <div className="job-post-item p-4 d-block d-lg-flex align-items-center">
                     <div className="one-third mb-4 mb-md-0">
@@ -753,7 +755,6 @@ export default function Home() {
                     </div>
                   </div>
                 </div>
-                {/* end */}
                 <div className="col-md-12 ftco-animate">
                   <div className="job-post-item p-4 d-block d-lg-flex align-items-center">
                     <div className="one-third mb-4 mb-md-0">
@@ -792,7 +793,7 @@ export default function Home() {
                     </div>
                   </div>
                 </div>
-                {/* end */}
+               
                 <div className="col-md-12 ftco-animate">
                   <div className="job-post-item p-4 d-block d-lg-flex align-items-center">
                     <div className="one-third mb-4 mb-md-0">
@@ -831,7 +832,7 @@ export default function Home() {
                     </div>
                   </div>
                 </div>
-                {/* end */}
+              
                 <div className="col-md-12 ftco-animate">
                   <div className="job-post-item p-4 d-block d-lg-flex align-items-center">
                     <div className="one-third mb-4 mb-md-0">
@@ -870,7 +871,7 @@ export default function Home() {
                     </div>
                   </div>
                 </div>
-                {/* end */}
+               
                 <div className="col-md-12 ftco-animate">
                   <div className="job-post-item p-4 d-block d-lg-flex align-items-center">
                     <div className="one-third mb-4 mb-md-0">
@@ -909,7 +910,7 @@ export default function Home() {
                     </div>
                   </div>
                 </div>
-                {/* end */}
+            
                 <div className="col-md-12 ftco-animate">
                   <div className="job-post-item p-4 d-block d-lg-flex align-items-center">
                     <div className="one-third mb-4 mb-md-0">
@@ -948,7 +949,7 @@ export default function Home() {
                     </div>
                   </div>
                 </div>
-                {/* end */}
+             
               </div>
             </div>
             <div className="col-lg-3 sidebar">
@@ -1040,7 +1041,8 @@ export default function Home() {
             </div>
           </div>
         </div>
-      </section>
+      </section> 
+
       <section className="ftco-section testimony-section">
         <div className="container">
           <div className="row justify-content-center mb-4">
@@ -1172,6 +1174,7 @@ export default function Home() {
           </div>
         </div>
       </section>
+
       <section className="ftco-section ftco-candidates bg-primary">
         <div className="container">
           <div className="row justify-content-center pb-3">
@@ -1250,6 +1253,7 @@ export default function Home() {
           </div>
         </div>
       </section>
+
       <section className="ftco-section bg-light">
         <div className="container">
           <div className="row justify-content-center mb-5 pb-3">
@@ -1384,6 +1388,7 @@ export default function Home() {
           </div>
         </div>
       </section>
+
       <section className="ftco-section-parallax">
         <div className="parallax-img d-flex align-items-center">
           <div className="container">
@@ -1418,6 +1423,7 @@ export default function Home() {
           </div>
         </div>
       </section>
+
       <footer className="ftco-footer ftco-bg-dark ftco-section">
         <div className="container">
           <div className="row mb-5">
@@ -1580,13 +1586,11 @@ export default function Home() {
           <div className="row">
             <div className="col-md-12 text-center">
               <p>
-                {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
                 Copyright © All rights reserved | This template is made with{" "}
                 <i className="icon-heart text-danger" aria-hidden="true" /> by{" "}
                 <a href="https://colorlib.com" target="_blank">
                   Colorlib
                 </a>
-                {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
               </p>
             </div>
           </div>
@@ -1617,21 +1621,7 @@ export default function Home() {
         </svg>
       </div> */}
 
-      <Script src="js/jquery.min.js"></Script>
-      <Script src="js/jquery-migrate-3.0.1.min.js"></Script>
-      <Script src="js/popper.min.js"></Script>
-      <Script src="js/bootstrap.min.js"></Script>
-      <Script src="js/jquery.easing.1.3.js"></Script>
-      <Script src="js/jquery.waypoints.min.js"></Script>
-      <Script src="js/jquery.stellar.min.js"></Script>
-      <Script src="js/owl.carousel.min.js"></Script>
-      <Script src="js/jquery.magnific-popup.min.js"></Script>
-      <Script src="js/aos.js"></Script>
-      <Script src="js/jquery.animateNumber.min.js"></Script>
-      <Script src="js/scrollax.min.js"></Script>
-      <Script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></Script>
-      <Script src="js/google-map.js"></Script>
-      <Script src="js/main.js"></Script>
+      
     </>
   );
 }

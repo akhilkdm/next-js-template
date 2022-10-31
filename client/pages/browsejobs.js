@@ -27,7 +27,7 @@ function browsejobs() {
         </>
       </Head>
       <Header />
-      <div
+      {/* <div
         className="hero-wrap hero-wrap-2"
         style={{ backgroundImage: 'url("images/bg_1.jpg")' }}
         data-stellar-background-ratio="0.5"
@@ -48,8 +48,8 @@ function browsejobs() {
             </div>
           </div>
         </div>
-      </div>
-      <section className="ftco-section bg-light">
+      </div> */}
+      {/* <section className="ftco-section bg-light">
         <div className="container">
           <div className="row">
             <div className="col-lg-9 pr-lg-4">
@@ -92,7 +92,7 @@ function browsejobs() {
                     </div>
                   </div>
                 </div>
-                {/* end */}
+               
                 <div className="col-md-12 ftco-animate">
                   <div className="job-post-item p-4 d-block d-lg-flex align-items-center">
                     <div className="one-third mb-4 mb-md-0">
@@ -131,7 +131,8 @@ function browsejobs() {
                     </div>
                   </div>
                 </div>
-                {/* end */}
+               
+               
                 <div className="col-md-12 ftco-animate">
                   <div className="job-post-item p-4 d-block d-lg-flex align-items-center">
                     <div className="one-third mb-4 mb-md-0">
@@ -170,7 +171,7 @@ function browsejobs() {
                     </div>
                   </div>
                 </div>
-                {/* end */}
+                
                 <div className="col-md-12 ftco-animate">
                   <div className="job-post-item p-4 d-block d-lg-flex align-items-center">
                     <div className="one-third mb-4 mb-md-0">
@@ -209,7 +210,7 @@ function browsejobs() {
                     </div>
                   </div>
                 </div>
-                {/* end */}
+              
                 <div className="col-md-12 ftco-animate">
                   <div className="job-post-item p-4 d-block d-lg-flex align-items-center">
                     <div className="one-third mb-4 mb-md-0">
@@ -248,7 +249,7 @@ function browsejobs() {
                     </div>
                   </div>
                 </div>
-                {/* end */}
+               
                 <div className="col-md-12 ftco-animate">
                   <div className="job-post-item p-4 d-block d-lg-flex align-items-center">
                     <div className="one-third mb-4 mb-md-0">
@@ -287,7 +288,7 @@ function browsejobs() {
                     </div>
                   </div>
                 </div>
-                {/* end */}
+              
                 <div className="col-md-12 ftco-animate">
                   <div className="job-post-item p-4 d-block d-lg-flex align-items-center">
                     <div className="one-third mb-4 mb-md-0">
@@ -326,7 +327,7 @@ function browsejobs() {
                     </div>
                   </div>
                 </div>
-                {/* end */}
+              
                 <div className="col-md-12 ftco-animate">
                   <div className="job-post-item p-4 d-block d-lg-flex align-items-center">
                     <div className="one-third mb-4 mb-md-0">
@@ -365,7 +366,7 @@ function browsejobs() {
                     </div>
                   </div>
                 </div>
-                {/* end */}
+                
                 <div className="col-md-12 ftco-animate">
                   <div className="job-post-item p-4 d-block d-lg-flex align-items-center">
                     <div className="one-third mb-4 mb-md-0">
@@ -404,8 +405,8 @@ function browsejobs() {
                     </div>
                   </div>
                 </div>
-                {/* end */}
               </div>
+
               <div className="row mt-5">
                 <div className="col text-center">
                   <div className="block-27">
@@ -658,8 +659,9 @@ function browsejobs() {
             </div>
           </div>
         </div>
-      </section>
-      <section className="ftco-section-parallax">
+      </section> */}
+
+      {/* <section className="ftco-section-parallax">
         <div className="parallax-img d-flex align-items-center">
           <div className="container">
             <div className="row d-flex justify-content-center">
@@ -692,8 +694,9 @@ function browsejobs() {
             </div>
           </div>
         </div>
-      </section>
-      <footer className="ftco-footer ftco-bg-dark ftco-section">
+      </section> */}
+
+      {/* <footer className="ftco-footer ftco-bg-dark ftco-section">
         <div className="container">
           <div className="row mb-5">
             <div className="col-md">
@@ -855,18 +858,18 @@ function browsejobs() {
           <div className="row">
             <div className="col-md-12 text-center">
               <p>
-                {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
+
                 Copyright © All rights reserved | This template is made with{" "}
                 <i className="icon-heart text-danger" aria-hidden="true" /> by{" "}
                 <a href="https://colorlib.com" target="_blank">
                   Colorlib
                 </a>
-                {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
+               
               </p>
             </div>
           </div>
         </div>
-      </footer>
+      </footer> */}
 
       <Script src="js/jquery.min.js"></Script>
       <Script src="js/jquery-migrate-3.0.1.min.js"></Script>
